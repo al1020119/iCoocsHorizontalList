@@ -9,6 +9,8 @@ Q Q：2211523682/790806573
 	
 	微博WB:http://weibo.com/u/3288975567?is_hot=1
 	
+	博客最新地址：https://icocos.github.io/
+ 
 	git博文：http://al1020119.github.io/
 	
 	github：https://github.com/al1020119
